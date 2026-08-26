@@ -100,6 +100,36 @@ def obtener_estrenos(session: requests.Session) -> dict:
     return resultados
 
 
+def enriquecer_con_detalles(session: requests.Session, resultados: dict) -> None:
+    """
+    Para cada película, pide sus detalles (calificación TMDB y su ID de IMDb)
+    y los agrega directo al diccionario de esa película.
+    Hace una llamada extra por película, así que solo se corre sobre la
+    lista ya filtrada (no por cada página de resultados).
+    """
+    for tmdb_id, info in resultados.items():
+        try:
+            detalle = tmdb_get(
+                session,
+                f"/movie/{tmdb_id}",
+                {"language": LANGUAGE, "append_to_response": "external_ids"},
+            )
+        except requests.RequestException:
+            continue
+
+        info["calificacion"] = round(detalle.get("vote_average", 0) or 0, 1)
+        info["num_votos"] = detalle.get("vote_count", 0)
+
+        imdb_id = (detalle.get("external_ids") or {}).get("imdb_id") or detalle.get(
+            "imdb_id"
+        )
+        info["imdb_id"] = imdb_id
+        info["imdb_url"] = (
+            f"https://www.imdb.com/title/{imdb_id}/" if imdb_id else None
+        )
+        info["tmdb_url"] = f"https://www.themoviedb.org/movie/{tmdb_id}"
+
+
 def cargar_datos_previos() -> dict:
     if DATA_FILE.exists():
         with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -141,7 +171,22 @@ def generar_ics(datos: dict) -> None:
         ev.name = f"🎬 {info['titulo']}"
         ev.begin = fecha.isoformat()
         ev.make_all_day()
-        ev.description = "Estreno en cines de México (fuente: TMDB)"
+
+        lineas_desc = ["Estreno en cines de México (fuente: TMDB)"]
+        calificacion = info.get("calificacion")
+        if calificacion:
+            lineas_desc.append(
+                f"⭐ Calificación TMDB: {calificacion}/10 "
+                f"({info.get('num_votos', 0)} votos)"
+            )
+        if info.get("imdb_url"):
+            lineas_desc.append(f"IMDb: {info['imdb_url']}")
+        if info.get("tmdb_url"):
+            lineas_desc.append(f"TMDB: {info['tmdb_url']}")
+
+        ev.description = "\n".join(lineas_desc)
+        if info.get("imdb_url"):
+            ev.url = info["imdb_url"]
         ev.uid = f"tmdb-{tmdb_id}@estrenos-mx"
         cal.events.add(ev)
 
@@ -158,6 +203,7 @@ def main() -> None:
 
     previos = cargar_datos_previos()
     nuevos = obtener_estrenos(session)
+    enriquecer_con_detalles(session, nuevos)
 
     cambios = comparar(previos, nuevos)
 
