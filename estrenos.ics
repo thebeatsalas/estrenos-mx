@@ -1,0 +1,802 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Coyote vs. Acme
+UID:tmdb-1204680@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 41: La Película
+UID:tmdb-1751001@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Idiotas
+UID:tmdb-445466@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Digger
+UID:tmdb-1248832@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Emily\, ¿dónde estás?
+UID:tmdb-1339588@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 No todos somos iguales
+UID:tmdb-1373789@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Quédate
+UID:tmdb-1729743@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270121
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Animales Libres Y Violentos
+UID:tmdb-1115030@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La negociación
+UID:tmdb-1263012@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Rosa
+UID:tmdb-1747078@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Detrás de la máscara
+UID:tmdb-1323611@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El cortejo
+UID:tmdb-1754993@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270107
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Asterix: The Kingdom of Nubia
+UID:tmdb-1084728@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Código: Venganza
+UID:tmdb-1288445@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Invader Grandma
+UID:tmdb-1740656@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Tierra de Mi Padre
+UID:tmdb-1437696@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Blu
+UID:tmdb-1747081@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Loco México Mágico
+UID:tmdb-1700680@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Spider-Man: Un nuevo día
+UID:tmdb-969681@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 A Toda Madre
+UID:tmdb-1661441@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Avengers: Doomsday
+UID:tmdb-1003596@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Lo que queda de ti
+UID:tmdb-1219620@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Heladero: Dulce sabor a muerte
+UID:tmdb-1477712@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Stella Anyways
+UID:tmdb-1148508@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Dark Windows
+UID:tmdb-1089228@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 A cualquier precio
+UID:tmdb-1380417@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 2026 &TEAM CONCERT TOUR 'BLAZE THE WAY' in JAPAN
+UID:tmdb-1728407@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 It Ends
+UID:tmdb-1422011@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Las aguas de agosto
+UID:tmdb-1755025@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270121
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 The Debut
+UID:tmdb-1391239@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Un poeta más
+UID:tmdb-1755028@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Yo soy Rocky
+UID:tmdb-1286656@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Quiero Tu Sexo
+UID:tmdb-1288059@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Gungo y Los Juegos Cavernícolas
+UID:tmdb-1548369@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El poder de la red
+UID:tmdb-1281331@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Bosco: La Sombra Extraviada Bajo la Luna de Plata
+UID:tmdb-1228012@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Sacrificio: Los elegidos
+UID:tmdb-1284186@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Verdad y traición
+UID:tmdb-1443940@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Una chica en la estación
+UID:tmdb-1661955@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261112
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Memorama
+UID:tmdb-841309@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 L'operatrice e le forchette (forze dell’ordine)
+UID:tmdb-1732709@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Jumanji: En el mundo real
+UID:tmdb-1260649@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Sueños en Oslo
+UID:tmdb-1228682@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Paw Patrol: La dino película
+UID:tmdb-1185806@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Большое путешествие. Вокруг света
+UID:tmdb-1239870@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Los días de Alfredo
+UID:tmdb-1753363@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Carne y Piel
+UID:tmdb-1753366@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Adiós Mixto
+UID:tmdb-1755002@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Limpio\, más que agua de abril
+UID:tmdb-1595703@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Pulp: What Do You Do for an Encore?
+UID:tmdb-1715598@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Te he Entregado el Fuego de mi Juventud
+UID:tmdb-1749344@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Life Review ®
+UID:tmdb-1728021@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Bosque Salvaje: Wildwood
+UID:tmdb-791523@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Zaid 3: Una Última Zapateada
+UID:tmdb-1743309@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Insaciable
+UID:tmdb-1363387@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Libélula
+UID:tmdb-1510735@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Ahora Me Ves... De Nicolás de Jesús
+UID:tmdb-1450771@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Street Fighter
+UID:tmdb-1153576@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La guerra de los últimos
+UID:tmdb-1384216@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270218
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 What Happened to Doris?
+UID:tmdb-1433027@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Tóxico
+UID:tmdb-1213243@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Galilea
+UID:tmdb-1747085@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Sagrado corazón
+UID:tmdb-1536053@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Su propio infierno
+UID:tmdb-1469342@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Pinocho: Sin cuerdas
+UID:tmdb-1232569@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Cartas a Carlos
+UID:tmdb-1736906@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270204
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 The Riders
+UID:tmdb-1139422@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Puerta 36
+UID:tmdb-1755023@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Día D: Bajo presión
+UID:tmdb-1318413@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Los Juegos del Hambre: Amanecer en la cosecha
+UID:tmdb-1300968@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Recuperándonos en Júpiter
+UID:tmdb-1755026@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Clayface
+UID:tmdb-1400940@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Mentirosa
+UID:tmdb-1740703@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Hasta el fin del mundo
+UID:tmdb-1428226@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Julianne
+UID:tmdb-1633618@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Un hijo propio
+UID:tmdb-1616131@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Sobre el río
+UID:tmdb-1327437@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Zona Cero
+UID:tmdb-1375646@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270107
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Tigre De Papel
+UID:tmdb-1381273@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 LINKIN PARK: UNSHATTER
+UID:tmdb-1388805@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El corazón de la bestia
+UID:tmdb-1263337@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Tu corazón será destrozado
+UID:tmdb-1523145@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 So Far and From Now On
+UID:tmdb-1639362@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Relajadas y muy peligrosas
+UID:tmdb-1341138@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Amarte
+UID:tmdb-1751598@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Máscara contra Cabellera
+UID:tmdb-1751967@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Mi Primer Baile
+UID:tmdb-1746589@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261112
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La Caja Del Demonio
+UID:tmdb-1500890@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Ghost Soldier
+UID:tmdb-1562642@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Abeja Voladora
+UID:tmdb-1605324@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Tus dos muertos
+UID:tmdb-1365486@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Anxious People
+UID:tmdb-1474678@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Ascent
+UID:tmdb-1431114@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260902
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Malacopa
+UID:tmdb-1720045@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Adolescencia\, Sexo y Muerte en Campamento Miasma
+UID:tmdb-1240889@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Asesino Perfecto
+UID:tmdb-1725909@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Fin de la Escuela
+UID:tmdb-1754660@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 The Shepherd
+UID:tmdb-1477203@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260916
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La isla olvidada
+UID:tmdb-1465063@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Perder el piso
+UID:tmdb-1755015@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Al Día Siguiente
+UID:tmdb-1634352@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Recuerdo De Antígona
+UID:tmdb-1705908@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Shifting Baselines
+UID:tmdb-1449737@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La casa
+UID:tmdb-1736195@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Pasajeros
+UID:tmdb-1747080@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Árbol Mágico
+UID:tmdb-1140521@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Burza
+UID:tmdb-1747083@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Entrega al límite
+UID:tmdb-1377237@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Palabra Petulante
+UID:tmdb-1743518@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Madre siniestra
+UID:tmdb-1400837@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Los demonios del amanecer
+UID:tmdb-1244139@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Resident Evil: Noche cero
+UID:tmdb-1423191@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La noche del demonio: Están entre nosotros
+UID:tmdb-1291595@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Más Allá de las palabras
+UID:tmdb-1742133@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Impacto Mortal
+UID:tmdb-1127384@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Diez de Mayo
+UID:tmdb-1398298@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Duna: Parte tres
+UID:tmdb-1170608@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La Marca del Jaguar: El despertar del fuego
+UID:tmdb-1745291@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Eternal Return
+UID:tmdb-1125822@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Código formal: Una desventura de Fran y Ren
+UID:tmdb-1719360@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Niño Pez
+UID:tmdb-1730708@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Guardianes Del Museo 2: Los Tesoros De Egipto
+UID:tmdb-1264821@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261203
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La Psicópata
+UID:tmdb-1379486@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El Club del Pie Izquierdo
+UID:tmdb-1743695@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 2 Big to Rig
+UID:tmdb-1693400@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Marsupilami
+UID:tmdb-1145899@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Mayor de Edad
+UID:tmdb-1755001@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Liena
+UID:tmdb-1753368@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Ya No Grabes
+UID:tmdb-1651828@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 El final de la Calle Oak
+UID:tmdb-1101383@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La Venganza del Charro Negro
+UID:tmdb-1406492@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 Aprender a Caer
+UID:tmdb-1747008@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)
+SUMMARY:🎬 La muerte de Robin Hood
+UID:tmdb-1284465@estrenos-mx
+END:VEVENT
+END:VCALENDAR
