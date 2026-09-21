@@ -5,7 +5,7 @@
     "imdb_id": "tt21357150",
     "imdb_url": "https://www.imdb.com/title/tt21357150/",
     "num_votos": 0,
-    "popularidad": 41.8055,
+    "popularidad": 46.5598,
     "titulo": "Avengers: Doomsday",
     "tmdb_url": "https://www.themoviedb.org/movie/1003596"
   },
@@ -15,17 +15,17 @@
     "imdb_id": "tt22852560",
     "imdb_url": "https://www.imdb.com/title/tt22852560/",
     "num_votos": 48,
-    "popularidad": 6.7086,
+    "popularidad": 6.205,
     "titulo": "La Disparition de Josef Mengele",
     "tmdb_url": "https://www.themoviedb.org/movie/1037264"
   },
   "1058424": {
-    "calificacion": 7.8,
-    "fecha": "2026-10-08",
+    "calificacion": 7.4,
+    "fecha": "2026-10-29",
     "imdb_id": "tt27369017",
     "imdb_url": "https://www.imdb.com/title/tt27369017/",
-    "num_votos": 52,
-    "popularidad": 92.0451,
+    "num_votos": 82,
+    "popularidad": 90.6672,
     "titulo": "Hope: El primer impacto",
     "tmdb_url": "https://www.themoviedb.org/movie/1058424"
   },
@@ -35,7 +35,7 @@
     "imdb_id": "tt32432428",
     "imdb_url": "https://www.imdb.com/title/tt32432428/",
     "num_votos": 0,
-    "popularidad": 3.9261,
+    "popularidad": 4.0171,
     "titulo": "Noche sin paz 2",
     "tmdb_url": "https://www.themoviedb.org/movie/1078446"
   },
@@ -45,7 +45,7 @@
     "imdb_id": "tt14129116",
     "imdb_url": "https://www.imdb.com/title/tt14129116/",
     "num_votos": 0,
-    "popularidad": 3.3522,
+    "popularidad": 4.5987,
     "titulo": "Maestros Del Crimen",
     "tmdb_url": "https://www.themoviedb.org/movie/1084409"
   },
@@ -55,17 +55,17 @@
     "imdb_id": "tt32243339",
     "imdb_url": "https://www.imdb.com/title/tt32243339/",
     "num_votos": 0,
-    "popularidad": 3.2753,
+    "popularidad": 4.5741,
     "titulo": "Asterix: The Kingdom of Nubia",
     "tmdb_url": "https://www.themoviedb.org/movie/1084728"
   },
   "1101383": {
-    "calificacion": 6.3,
+    "calificacion": 7.0,
     "fecha": "2026-08-13",
     "imdb_id": "tt27165187",
     "imdb_url": "https://www.imdb.com/title/tt27165187/",
-    "num_votos": 497,
-    "popularidad": 136.6446,
+    "num_votos": 1341,
+    "popularidad": 566.3338,
     "titulo": "El final de la Calle Oak",
     "tmdb_url": "https://www.themoviedb.org/movie/1101383"
   },
@@ -75,7 +75,7 @@
     "imdb_id": "tt16911616",
     "imdb_url": "https://www.imdb.com/title/tt16911616/",
     "num_votos": 0,
-    "popularidad": 3.1067,
+    "popularidad": 3.2669,
     "titulo": "Animales Libres Y Violentos",
     "tmdb_url": "https://www.themoviedb.org/movie/1115030"
   },
@@ -85,29 +85,39 @@
     "imdb_id": "tt27725750",
     "imdb_url": "https://www.imdb.com/title/tt27725750/",
     "num_votos": 0,
-    "popularidad": 1.7223,
+    "popularidad": 2.1722,
     "titulo": "Eternal Return",
     "tmdb_url": "https://www.themoviedb.org/movie/1125822"
   },
   "1140521": {
-    "calificacion": 6.2,
+    "calificacion": 6.3,
     "fecha": "2026-10-08",
     "imdb_id": "tt7734244",
     "imdb_url": "https://www.imdb.com/title/tt7734244/",
-    "num_votos": 65,
-    "popularidad": 8.3251,
+    "num_votos": 70,
+    "popularidad": 14.7084,
     "titulo": "El Árbol Mágico",
     "tmdb_url": "https://www.themoviedb.org/movie/1140521"
   },
-  "1145899": {
-    "calificacion": 6.4,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt33029380",
-    "imdb_url": "https://www.imdb.com/title/tt33029380/",
-    "num_votos": 166,
-    "popularidad": 7.0874,
-    "titulo": "Marsupilami",
-    "tmdb_url": "https://www.themoviedb.org/movie/1145899"
+  "1147572": {
+    "calificacion": 0,
+    "fecha": "2027-02-11",
+    "imdb_id": "tt9077514",
+    "imdb_url": "https://www.imdb.com/title/tt9077514/",
+    "num_votos": 0,
+    "popularidad": 8.5641,
+    "titulo": "Narnia: The Magician's Nephew",
+    "tmdb_url": "https://www.themoviedb.org/movie/1147572"
+  },
+  "1148331": {
+    "calificacion": 0,
+    "fecha": "2026-09-19",
+    "imdb_id": "tt28279347",
+    "imdb_url": "https://www.imdb.com/title/tt28279347/",
+    "num_votos": 0,
+    "popularidad": 2.7776,
+    "titulo": "Amálgama",
+    "tmdb_url": "https://www.themoviedb.org/movie/1148331"
   },
   "1148508": {
     "calificacion": 8.0,
@@ -115,7 +125,7 @@
     "imdb_id": "tt28287155",
     "imdb_url": "https://www.imdb.com/title/tt28287155/",
     "num_votos": 1,
-    "popularidad": 2.3478,
+    "popularidad": 2.9687,
     "titulo": "Stella Anyways",
     "tmdb_url": "https://www.themoviedb.org/movie/1148508"
   },
@@ -125,7 +135,7 @@
     "imdb_id": "tt27419420",
     "imdb_url": "https://www.imdb.com/title/tt27419420/",
     "num_votos": 0,
-    "popularidad": 9.9727,
+    "popularidad": 13.6025,
     "titulo": "Street Fighter",
     "tmdb_url": "https://www.themoviedb.org/movie/1153576"
   },
@@ -135,27 +145,27 @@
     "imdb_id": "tt31378509",
     "imdb_url": "https://www.imdb.com/title/tt31378509/",
     "num_votos": 0,
-    "popularidad": 18.4169,
+    "popularidad": 17.3008,
     "titulo": "Duna: Parte tres",
     "tmdb_url": "https://www.themoviedb.org/movie/1170608"
   },
   "1176962": {
-    "calificacion": 7.7,
+    "calificacion": 7.6,
     "fecha": "2027-01-28",
     "imdb_id": "tt25399154",
     "imdb_url": "https://www.imdb.com/title/tt25399154/",
-    "num_votos": 27,
-    "popularidad": 7.718,
+    "num_votos": 36,
+    "popularidad": 10.3937,
     "titulo": "Rose",
     "tmdb_url": "https://www.themoviedb.org/movie/1176962"
   },
   "1185806": {
-    "calificacion": 7.4,
+    "calificacion": 7.9,
     "fecha": "2026-08-13",
     "imdb_id": "tt29356163",
     "imdb_url": "https://www.imdb.com/title/tt29356163/",
-    "num_votos": 96,
-    "popularidad": 87.3228,
+    "num_votos": 128,
+    "popularidad": 106.1819,
     "titulo": "Paw Patrol: La dino película",
     "tmdb_url": "https://www.themoviedb.org/movie/1185806"
   },
@@ -165,7 +175,7 @@
     "imdb_id": "tt21413704",
     "imdb_url": "https://www.imdb.com/title/tt21413704/",
     "num_votos": 0,
-    "popularidad": 1.2063,
+    "popularidad": 1.8367,
     "titulo": "Cocodrilos",
     "tmdb_url": "https://www.themoviedb.org/movie/1199946"
   },
@@ -174,8 +184,8 @@
     "fecha": "2026-08-27",
     "imdb_id": "tt1756855",
     "imdb_url": "https://www.imdb.com/title/tt1756855/",
-    "num_votos": 365,
-    "popularidad": 593.0284,
+    "num_votos": 467,
+    "popularidad": 472.0999,
     "titulo": "Coyote vs. Acme",
     "tmdb_url": "https://www.themoviedb.org/movie/1204680"
   },
@@ -184,8 +194,8 @@
     "fecha": "2026-08-26",
     "imdb_id": "tt27530512",
     "imdb_url": "https://www.imdb.com/title/tt27530512/",
-    "num_votos": 73,
-    "popularidad": 48.4309,
+    "num_votos": 74,
+    "popularidad": 26.106,
     "titulo": "Tóxico",
     "tmdb_url": "https://www.themoviedb.org/movie/1213243"
   },
@@ -195,47 +205,27 @@
     "imdb_id": "tt29344894",
     "imdb_url": "https://www.imdb.com/title/tt29344894/",
     "num_votos": 78,
-    "popularidad": 4.5025,
+    "popularidad": 4.7942,
     "titulo": "Lo que queda de ti",
     "tmdb_url": "https://www.themoviedb.org/movie/1219620"
-  },
-  "1228012": {
-    "calificacion": 10.0,
-    "fecha": "2026-08-22",
-    "imdb_id": null,
-    "imdb_url": null,
-    "num_votos": 1,
-    "popularidad": 1.0185,
-    "titulo": "Bosco: La Sombra Extraviada Bajo la Luna de Plata",
-    "tmdb_url": "https://www.themoviedb.org/movie/1228012"
   },
   "1232569": {
     "calificacion": 6.6,
     "fecha": "2026-09-24",
     "imdb_id": "tt30887701",
     "imdb_url": "https://www.imdb.com/title/tt30887701/",
-    "num_votos": 99,
-    "popularidad": 123.4203,
+    "num_votos": 105,
+    "popularidad": 142.8626,
     "titulo": "Pinocho: Sin cuerdas",
     "tmdb_url": "https://www.themoviedb.org/movie/1232569"
   },
-  "1239870": {
-    "calificacion": 8.6,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt27534211",
-    "imdb_url": "https://www.imdb.com/title/tt27534211/",
-    "num_votos": 5,
-    "popularidad": 2.0717,
-    "titulo": "Большое путешествие. Вокруг света",
-    "tmdb_url": "https://www.themoviedb.org/movie/1239870"
-  },
   "1240889": {
-    "calificacion": 6.7,
+    "calificacion": 6.5,
     "fecha": "2026-08-13",
     "imdb_id": "tt35298123",
     "imdb_url": "https://www.imdb.com/title/tt35298123/",
-    "num_votos": 107,
-    "popularidad": 10.4334,
+    "num_votos": 149,
+    "popularidad": 80.0517,
     "titulo": "Adolescencia, Sexo y Muerte en Campamento Miasma",
     "tmdb_url": "https://www.themoviedb.org/movie/1240889"
   },
@@ -245,17 +235,17 @@
     "imdb_id": "tt31450459",
     "imdb_url": "https://www.imdb.com/title/tt31450459/",
     "num_votos": 0,
-    "popularidad": 18.8933,
+    "popularidad": 24.3162,
     "titulo": "Digger",
     "tmdb_url": "https://www.themoviedb.org/movie/1248832"
   },
   "1250846": {
-    "calificacion": 5.5,
+    "calificacion": 5.4,
     "fecha": "2026-09-10",
     "imdb_id": "tt21816918",
     "imdb_url": "https://www.imdb.com/title/tt21816918/",
-    "num_votos": 37,
-    "popularidad": 1.7361,
+    "num_votos": 38,
+    "popularidad": 2.3818,
     "titulo": "The Painted",
     "tmdb_url": "https://www.themoviedb.org/movie/1250846"
   },
@@ -265,17 +255,17 @@
     "imdb_id": "tt26735127",
     "imdb_url": "https://www.imdb.com/title/tt26735127/",
     "num_votos": 0,
-    "popularidad": 7.9258,
+    "popularidad": 8.3984,
     "titulo": "Jumanji: En el mundo real",
     "tmdb_url": "https://www.themoviedb.org/movie/1260649"
   },
   "1263337": {
-    "calificacion": 0,
+    "calificacion": 7.7,
     "fecha": "2026-09-24",
     "imdb_id": "tt7526136",
     "imdb_url": "https://www.imdb.com/title/tt7526136/",
-    "num_votos": 0,
-    "popularidad": 18.0469,
+    "num_votos": 12,
+    "popularidad": 35.4449,
     "titulo": "El corazón de la bestia",
     "tmdb_url": "https://www.themoviedb.org/movie/1263337"
   },
@@ -285,9 +275,19 @@
     "imdb_id": "tt30224625",
     "imdb_url": "https://www.imdb.com/title/tt30224625/",
     "num_votos": 3,
-    "popularidad": 3.4535,
+    "popularidad": 5.6446,
     "titulo": "Guardianes Del Museo 2: Los Tesoros De Egipto",
     "tmdb_url": "https://www.themoviedb.org/movie/1264821"
+  },
+  "1279493": {
+    "calificacion": 6.1,
+    "fecha": "2026-10-01",
+    "imdb_id": "tt32321803",
+    "imdb_url": "https://www.imdb.com/title/tt32321803/",
+    "num_votos": 85,
+    "popularidad": 39.7782,
+    "titulo": "El último gran golpe",
+    "tmdb_url": "https://www.themoviedb.org/movie/1279493"
   },
   "1281331": {
     "calificacion": 0,
@@ -295,39 +295,29 @@
     "imdb_id": "tt37510326",
     "imdb_url": "https://www.imdb.com/title/tt37510326/",
     "num_votos": 0,
-    "popularidad": 8.0466,
+    "popularidad": 11.2937,
     "titulo": "El poder de la red",
     "tmdb_url": "https://www.themoviedb.org/movie/1281331"
   },
   "1284046": {
-    "calificacion": 6.1,
+    "calificacion": 6.0,
     "fecha": "2026-10-22",
     "imdb_id": "tt32268691",
     "imdb_url": "https://www.imdb.com/title/tt32268691/",
-    "num_votos": 21,
-    "popularidad": 15.7464,
+    "num_votos": 25,
+    "popularidad": 21.6909,
     "titulo": "Aniquilación",
     "tmdb_url": "https://www.themoviedb.org/movie/1284046"
   },
   "1284186": {
-    "calificacion": 4.8,
+    "calificacion": 5.5,
     "fecha": "2026-10-15",
     "imdb_id": "tt32268992",
     "imdb_url": "https://www.imdb.com/title/tt32268992/",
-    "num_votos": 9,
-    "popularidad": 4.8996,
+    "num_votos": 18,
+    "popularidad": 49.663,
     "titulo": "Sacrificio: Los elegidos",
     "tmdb_url": "https://www.themoviedb.org/movie/1284186"
-  },
-  "1284465": {
-    "calificacion": 6.2,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt32273171",
-    "imdb_url": "https://www.imdb.com/title/tt32273171/",
-    "num_votos": 302,
-    "popularidad": 68.0173,
-    "titulo": "La muerte de Robin Hood",
-    "tmdb_url": "https://www.themoviedb.org/movie/1284465"
   },
   "1286656": {
     "calificacion": 0,
@@ -335,7 +325,7 @@
     "imdb_id": "tt11995650",
     "imdb_url": "https://www.imdb.com/title/tt11995650/",
     "num_votos": 0,
-    "popularidad": 4.6576,
+    "popularidad": 5.1118,
     "titulo": "Yo Soy Rocky",
     "tmdb_url": "https://www.themoviedb.org/movie/1286656"
   },
@@ -344,8 +334,8 @@
     "fecha": "2026-10-01",
     "imdb_id": "tt32332915",
     "imdb_url": "https://www.imdb.com/title/tt32332915/",
-    "num_votos": 66,
-    "popularidad": 45.4232,
+    "num_votos": 79,
+    "popularidad": 56.0644,
     "titulo": "Quiero Tu Sexo",
     "tmdb_url": "https://www.themoviedb.org/movie/1288059"
   },
@@ -354,8 +344,8 @@
     "fecha": "2026-08-20",
     "imdb_id": "tt32338669",
     "imdb_url": "https://www.imdb.com/title/tt32338669/",
-    "num_votos": 389,
-    "popularidad": 348.4092,
+    "num_votos": 425,
+    "popularidad": 211.6718,
     "titulo": "Código: Venganza",
     "tmdb_url": "https://www.themoviedb.org/movie/1288445"
   },
@@ -364,8 +354,8 @@
     "fecha": "2026-08-20",
     "imdb_id": "tt32393988",
     "imdb_url": "https://www.imdb.com/title/tt32393988/",
-    "num_votos": 148,
-    "popularidad": 45.6179,
+    "num_votos": 157,
+    "popularidad": 51.0801,
     "titulo": "La noche del demonio: Están entre nosotros",
     "tmdb_url": "https://www.themoviedb.org/movie/1291595"
   },
@@ -375,7 +365,7 @@
     "imdb_id": "tt27811248",
     "imdb_url": "https://www.imdb.com/title/tt27811248/",
     "num_votos": 254,
-    "popularidad": 2.1352,
+    "popularidad": 3.5885,
     "titulo": "Las Catadoras De Hitler",
     "tmdb_url": "https://www.themoviedb.org/movie/1291712"
   },
@@ -385,29 +375,19 @@
     "imdb_id": "tt32558705",
     "imdb_url": "https://www.imdb.com/title/tt32558705/",
     "num_votos": 0,
-    "popularidad": 8.9322,
+    "popularidad": 18.5965,
     "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
     "tmdb_url": "https://www.themoviedb.org/movie/1300968"
   },
   "1302904": {
-    "calificacion": 6.1,
+    "calificacion": 6.2,
     "fecha": "2026-09-10",
     "imdb_id": "tt32588798",
     "imdb_url": "https://www.imdb.com/title/tt32588798/",
-    "num_votos": 46,
-    "popularidad": 86.1043,
+    "num_votos": 78,
+    "popularidad": 59.0714,
     "titulo": "Hechizo de amor: La magia continúa",
     "tmdb_url": "https://www.themoviedb.org/movie/1302904"
-  },
-  "1318413": {
-    "calificacion": 7.7,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt32547691",
-    "imdb_url": "https://www.imdb.com/title/tt32547691/",
-    "num_votos": 389,
-    "popularidad": 26.513,
-    "titulo": "El Día D: Bajo presión",
-    "tmdb_url": "https://www.themoviedb.org/movie/1318413"
   },
   "1323611": {
     "calificacion": 0,
@@ -415,27 +395,27 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 0.6285,
+    "popularidad": 0.816,
     "titulo": "Detrás de la máscara",
     "tmdb_url": "https://www.themoviedb.org/movie/1323611"
   },
   "1339588": {
-    "calificacion": 6.7,
+    "calificacion": 6.8,
     "fecha": "2026-09-17",
     "imdb_id": "tt32499466",
     "imdb_url": "https://www.imdb.com/title/tt32499466/",
-    "num_votos": 50,
-    "popularidad": 8.2199,
+    "num_votos": 58,
+    "popularidad": 29.9791,
     "titulo": "Emily, ¿dónde estás?",
     "tmdb_url": "https://www.themoviedb.org/movie/1339588"
   },
   "1341138": {
-    "calificacion": 6.8,
+    "calificacion": 6.6,
     "fecha": "2026-08-20",
     "imdb_id": "tt33305867",
     "imdb_url": "https://www.imdb.com/title/tt33305867/",
-    "num_votos": 31,
-    "popularidad": 11.6856,
+    "num_votos": 33,
+    "popularidad": 18.9799,
     "titulo": "Relajadas y muy peligrosas",
     "tmdb_url": "https://www.themoviedb.org/movie/1341138"
   },
@@ -445,19 +425,9 @@
     "imdb_id": "tt33319706",
     "imdb_url": "https://www.imdb.com/title/tt33319706/",
     "num_votos": 87,
-    "popularidad": 2.5987,
+    "popularidad": 3.8627,
     "titulo": "Saint Catherine",
     "tmdb_url": "https://www.themoviedb.org/movie/1356236"
-  },
-  "1363387": {
-    "calificacion": 7.0,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt35050712",
-    "imdb_url": "https://www.imdb.com/title/tt35050712/",
-    "num_votos": 170,
-    "popularidad": 13.9338,
-    "titulo": "Insaciable",
-    "tmdb_url": "https://www.themoviedb.org/movie/1363387"
   },
   "1373789": {
     "calificacion": 0,
@@ -465,7 +435,7 @@
     "imdb_id": "tt27838720",
     "imdb_url": "https://www.imdb.com/title/tt27838720/",
     "num_votos": 0,
-    "popularidad": 0.8359,
+    "popularidad": 1.4731,
     "titulo": "No todos somos iguales",
     "tmdb_url": "https://www.themoviedb.org/movie/1373789"
   },
@@ -474,18 +444,18 @@
     "fecha": "2026-09-03",
     "imdb_id": "tt34385135",
     "imdb_url": "https://www.imdb.com/title/tt34385135/",
-    "num_votos": 785,
-    "popularidad": 454.2796,
+    "num_votos": 840,
+    "popularidad": 357.8035,
     "titulo": "Zona Cero",
     "tmdb_url": "https://www.themoviedb.org/movie/1375646"
   },
   "1377237": {
-    "calificacion": 7.7,
+    "calificacion": 7.9,
     "fecha": "2026-10-29",
     "imdb_id": "tt31349844",
     "imdb_url": "https://www.imdb.com/title/tt31349844/",
-    "num_votos": 19,
-    "popularidad": 63.3353,
+    "num_votos": 31,
+    "popularidad": 64.411,
     "titulo": "Entrega al límite",
     "tmdb_url": "https://www.themoviedb.org/movie/1377237"
   },
@@ -495,17 +465,17 @@
     "imdb_id": "tt34374553",
     "imdb_url": "https://www.imdb.com/title/tt34374553/",
     "num_votos": 0,
-    "popularidad": 5.4749,
+    "popularidad": 5.9808,
     "titulo": "La Psicópata",
     "tmdb_url": "https://www.themoviedb.org/movie/1379486"
   },
   "1380417": {
-    "calificacion": 8.1,
-    "fecha": "2026-09-17",
+    "calificacion": 7.8,
+    "fecha": "2026-09-16",
     "imdb_id": "tt34379051",
     "imdb_url": "https://www.imdb.com/title/tt34379051/",
-    "num_votos": 16,
-    "popularidad": 28.8307,
+    "num_votos": 21,
+    "popularidad": 29.0785,
     "titulo": "A cualquier precio",
     "tmdb_url": "https://www.themoviedb.org/movie/1380417"
   },
@@ -515,7 +485,7 @@
     "imdb_id": "tt34384661",
     "imdb_url": "https://www.imdb.com/title/tt34384661/",
     "num_votos": 0,
-    "popularidad": 12.3708,
+    "popularidad": 9.1478,
     "titulo": "Godzilla Minus Zero",
     "tmdb_url": "https://www.themoviedb.org/movie/1381071"
   },
@@ -525,7 +495,7 @@
     "imdb_id": "tt34385689",
     "imdb_url": "https://www.imdb.com/title/tt34385689/",
     "num_votos": 0,
-    "popularidad": 6.0823,
+    "popularidad": 4.8796,
     "titulo": "Tigre De Papel",
     "tmdb_url": "https://www.themoviedb.org/movie/1381273"
   },
@@ -534,8 +504,8 @@
     "fecha": "2026-08-27",
     "imdb_id": "tt21285562",
     "imdb_url": "https://www.imdb.com/title/tt21285562/",
-    "num_votos": 261,
-    "popularidad": 46.8591,
+    "num_votos": 281,
+    "popularidad": 46.5904,
     "titulo": "La guerra de los últimos",
     "tmdb_url": "https://www.themoviedb.org/movie/1384216"
   },
@@ -545,7 +515,7 @@
     "imdb_id": "tt34512981",
     "imdb_url": "https://www.imdb.com/title/tt34512981/",
     "num_votos": 0,
-    "popularidad": 9.3471,
+    "popularidad": 9.6034,
     "titulo": "La Era de Hielo: Mundo de Lava",
     "tmdb_url": "https://www.themoviedb.org/movie/1384758"
   },
@@ -555,7 +525,7 @@
     "imdb_id": "tt43442522",
     "imdb_url": "https://www.imdb.com/title/tt43442522/",
     "num_votos": 0,
-    "popularidad": 2.7118,
+    "popularidad": 4.8494,
     "titulo": "LINKIN PARK: UNSHATTER",
     "tmdb_url": "https://www.themoviedb.org/movie/1388805"
   },
@@ -565,7 +535,7 @@
     "imdb_id": "tt34718200",
     "imdb_url": "https://www.imdb.com/title/tt34718200/",
     "num_votos": 0,
-    "popularidad": 5.2187,
+    "popularidad": 6.6221,
     "titulo": "El Debut",
     "tmdb_url": "https://www.themoviedb.org/movie/1391239"
   },
@@ -575,7 +545,7 @@
     "imdb_id": "tt34904883",
     "imdb_url": "https://www.imdb.com/title/tt34904883/",
     "num_votos": 0,
-    "popularidad": 0.7475,
+    "popularidad": 0.8826,
     "titulo": "Diez de Mayo",
     "tmdb_url": "https://www.themoviedb.org/movie/1398298"
   },
@@ -585,7 +555,7 @@
     "imdb_id": "tt36586020",
     "imdb_url": "https://www.imdb.com/title/tt36586020/",
     "num_votos": 0,
-    "popularidad": 10.8476,
+    "popularidad": 27.5854,
     "titulo": "Madre siniestra",
     "tmdb_url": "https://www.themoviedb.org/movie/1400837"
   },
@@ -595,7 +565,7 @@
     "imdb_id": "tt34890576",
     "imdb_url": "https://www.imdb.com/title/tt34890576/",
     "num_votos": 0,
-    "popularidad": 8.7669,
+    "popularidad": 14.1311,
     "titulo": "Clayface",
     "tmdb_url": "https://www.themoviedb.org/movie/1400940"
   },
@@ -605,7 +575,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.6807,
+    "popularidad": 2.169,
     "titulo": "La Venganza del Charro Negro",
     "tmdb_url": "https://www.themoviedb.org/movie/1406492"
   },
@@ -615,7 +585,7 @@
     "imdb_id": "tt34491649",
     "imdb_url": "https://www.imdb.com/title/tt34491649/",
     "num_votos": 0,
-    "popularidad": 4.2274,
+    "popularidad": 5.2175,
     "titulo": "El Nacimiento De Cristo",
     "tmdb_url": "https://www.themoviedb.org/movie/1408207"
   },
@@ -625,67 +595,57 @@
     "imdb_id": "tt35514120",
     "imdb_url": "https://www.imdb.com/title/tt35514120/",
     "num_votos": 0,
-    "popularidad": 6.628,
+    "popularidad": 7.2976,
     "titulo": "Licantropo",
     "tmdb_url": "https://www.themoviedb.org/movie/1421903"
   },
   "1422011": {
-    "calificacion": 5.3,
+    "calificacion": 5.4,
     "fecha": "2026-10-15",
     "imdb_id": "tt35519455",
     "imdb_url": "https://www.imdb.com/title/tt35519455/",
-    "num_votos": 36,
-    "popularidad": 6.6137,
+    "num_votos": 43,
+    "popularidad": 19.0202,
     "titulo": "El final",
     "tmdb_url": "https://www.themoviedb.org/movie/1422011"
   },
   "1423191": {
-    "calificacion": 9.2,
-    "fecha": "2026-09-17",
+    "calificacion": 7.4,
+    "fecha": "2026-09-16",
     "imdb_id": "tt35538033",
     "imdb_url": "https://www.imdb.com/title/tt35538033/",
-    "num_votos": 4,
-    "popularidad": 49.1529,
+    "num_votos": 245,
+    "popularidad": 525.4108,
     "titulo": "Resident Evil: Noche cero",
     "tmdb_url": "https://www.themoviedb.org/movie/1423191"
   },
   "1433367": {
-    "calificacion": 6.6,
+    "calificacion": 6.5,
     "fecha": "2026-08-27",
     "imdb_id": "tt37853455",
     "imdb_url": "https://www.imdb.com/title/tt37853455/",
-    "num_votos": 123,
-    "popularidad": 83.7761,
+    "num_votos": 145,
+    "popularidad": 44.067,
     "titulo": "Solo por una noche",
     "tmdb_url": "https://www.themoviedb.org/movie/1433367"
   },
   "1437696": {
-    "calificacion": 7.1,
+    "calificacion": 7.2,
     "fecha": "2026-10-22",
     "imdb_id": "tt37304295",
     "imdb_url": "https://www.imdb.com/title/tt37304295/",
-    "num_votos": 19,
-    "popularidad": 11.1724,
+    "num_votos": 24,
+    "popularidad": 12.8449,
     "titulo": "Tierra de Mi Padre",
     "tmdb_url": "https://www.themoviedb.org/movie/1437696"
   },
-  "1443940": {
-    "calificacion": 7.9,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt21825416",
-    "imdb_url": "https://www.imdb.com/title/tt21825416/",
-    "num_votos": 88,
-    "popularidad": 3.5753,
-    "titulo": "Verdad y traición",
-    "tmdb_url": "https://www.themoviedb.org/movie/1443940"
-  },
   "1447853": {
-    "calificacion": 7.5,
+    "calificacion": 7.4,
     "fecha": "2026-09-10",
     "imdb_id": "tt36152310",
     "imdb_url": "https://www.imdb.com/title/tt36152310/",
-    "num_votos": 17,
-    "popularidad": 13.2169,
+    "num_votos": 19,
+    "popularidad": 9.901,
     "titulo": "Oasis: Don't Look Back in Anger",
     "tmdb_url": "https://www.themoviedb.org/movie/1447853"
   },
@@ -695,7 +655,7 @@
     "imdb_id": "tt27995870",
     "imdb_url": "https://www.imdb.com/title/tt27995870/",
     "num_votos": 0,
-    "popularidad": 2.4439,
+    "popularidad": 4.7085,
     "titulo": "Ahora Me Ves... De Nicolás de Jesús",
     "tmdb_url": "https://www.themoviedb.org/movie/1450771"
   },
@@ -705,17 +665,27 @@
     "imdb_id": "tt36415529",
     "imdb_url": "https://www.imdb.com/title/tt36415529/",
     "num_votos": 0,
-    "popularidad": 2.438,
+    "popularidad": 2.8892,
     "titulo": "¡Behemoth! Una vida. En piezas",
     "tmdb_url": "https://www.themoviedb.org/movie/1452168"
   },
+  "1457866": {
+    "calificacion": 0,
+    "fecha": "2026-11-26",
+    "imdb_id": "tt36408401",
+    "imdb_url": "https://www.imdb.com/title/tt36408401/",
+    "num_votos": 0,
+    "popularidad": 6.6003,
+    "titulo": "The Further Mis-Adventures of Cliff Booth",
+    "tmdb_url": "https://www.themoviedb.org/movie/1457866"
+  },
   "1465063": {
-    "calificacion": 9.0,
+    "calificacion": 8.5,
     "fecha": "2026-09-16",
     "imdb_id": "tt36583977",
     "imdb_url": "https://www.imdb.com/title/tt36583977/",
-    "num_votos": 2,
-    "popularidad": 20.7698,
+    "num_votos": 8,
+    "popularidad": 31.027,
     "titulo": "La isla olvidada",
     "tmdb_url": "https://www.themoviedb.org/movie/1465063"
   },
@@ -724,8 +694,8 @@
     "fecha": "2026-09-24",
     "imdb_id": "tt36629665",
     "imdb_url": "https://www.imdb.com/title/tt36629665/",
-    "num_votos": 60,
-    "popularidad": 13.0825,
+    "num_votos": 63,
+    "popularidad": 12.4008,
     "titulo": "Su propio infierno",
     "tmdb_url": "https://www.themoviedb.org/movie/1469342"
   },
@@ -735,17 +705,17 @@
     "imdb_id": "tt31546369",
     "imdb_url": "https://www.imdb.com/title/tt31546369/",
     "num_votos": 0,
-    "popularidad": 1.9005,
+    "popularidad": 1.6804,
     "titulo": "Anxious People",
     "tmdb_url": "https://www.themoviedb.org/movie/1474678"
   },
   "1477712": {
-    "calificacion": 4.4,
+    "calificacion": 4.5,
     "fecha": "2026-09-03",
     "imdb_id": "tt36893729",
     "imdb_url": "https://www.imdb.com/title/tt36893729/",
-    "num_votos": 56,
-    "popularidad": 15.671,
+    "num_votos": 60,
+    "popularidad": 16.2065,
     "titulo": "El Heladero: Dulce sabor a muerte",
     "tmdb_url": "https://www.themoviedb.org/movie/1477712"
   },
@@ -755,17 +725,27 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 0.8442,
+    "popularidad": 1.177,
     "titulo": "Brote en el concreto",
     "tmdb_url": "https://www.themoviedb.org/movie/1484043"
+  },
+  "1489263": {
+    "calificacion": 0,
+    "fecha": "2026-09-19",
+    "imdb_id": null,
+    "imdb_url": null,
+    "num_votos": 0,
+    "popularidad": 3.4781,
+    "titulo": "El Anillo",
+    "tmdb_url": "https://www.themoviedb.org/movie/1489263"
   },
   "149": {
     "calificacion": 7.9,
     "fecha": "2026-09-10",
     "imdb_id": "tt0094625",
     "imdb_url": "https://www.imdb.com/title/tt0094625/",
-    "num_votos": 4979,
-    "popularidad": 18.2442,
+    "num_votos": 5002,
+    "popularidad": 23.9373,
     "titulo": "Akira",
     "tmdb_url": "https://www.themoviedb.org/movie/149"
   },
@@ -775,7 +755,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 3.9862,
+    "popularidad": 3.0412,
     "titulo": "Vestigio",
     "tmdb_url": "https://www.themoviedb.org/movie/1490354"
   },
@@ -784,8 +764,8 @@
     "fecha": "2026-11-12",
     "imdb_id": "tt37369064",
     "imdb_url": "https://www.imdb.com/title/tt37369064/",
-    "num_votos": 18,
-    "popularidad": 4.2089,
+    "num_votos": 19,
+    "popularidad": 5.3791,
     "titulo": "La Caja Del Demonio",
     "tmdb_url": "https://www.themoviedb.org/movie/1500890"
   },
@@ -795,19 +775,9 @@
     "imdb_id": "tt13609648",
     "imdb_url": "https://www.imdb.com/title/tt13609648/",
     "num_votos": 0,
-    "popularidad": 5.6452,
+    "popularidad": 7.4812,
     "titulo": "Sensatez y sentimiento",
     "tmdb_url": "https://www.themoviedb.org/movie/1503762"
-  },
-  "1510735": {
-    "calificacion": 0,
-    "fecha": "2026-08-07",
-    "imdb_id": "tt37539102",
-    "imdb_url": "https://www.imdb.com/title/tt37539102/",
-    "num_votos": 0,
-    "popularidad": 2.3482,
-    "titulo": "Libélula",
-    "tmdb_url": "https://www.themoviedb.org/movie/1510735"
   },
   "1516724": {
     "calificacion": 6.2,
@@ -815,7 +785,7 @@
     "imdb_id": "tt38607784",
     "imdb_url": "https://www.imdb.com/title/tt38607784/",
     "num_votos": 47,
-    "popularidad": 6.2447,
+    "popularidad": 5.6315,
     "titulo": "Pour le plaisir",
     "tmdb_url": "https://www.themoviedb.org/movie/1516724"
   },
@@ -825,27 +795,17 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 2.284,
+    "popularidad": 2.2985,
     "titulo": "Desechos",
     "tmdb_url": "https://www.themoviedb.org/movie/1522113"
   },
-  "1523145": {
-    "calificacion": 7.1,
-    "fecha": "2026-08-06",
-    "imdb_id": "tt38190257",
-    "imdb_url": "https://www.imdb.com/title/tt38190257/",
-    "num_votos": 121,
-    "popularidad": 57.3023,
-    "titulo": "Tu corazón será destrozado",
-    "tmdb_url": "https://www.themoviedb.org/movie/1523145"
-  },
   "1536053": {
-    "calificacion": 7.8,
+    "calificacion": 7.6,
     "fecha": "2026-08-27",
     "imdb_id": "tt38551604",
     "imdb_url": "https://www.imdb.com/title/tt38551604/",
-    "num_votos": 12,
-    "popularidad": 2.7999,
+    "num_votos": 13,
+    "popularidad": 1.7245,
     "titulo": "Sagrado corazón",
     "tmdb_url": "https://www.themoviedb.org/movie/1536053"
   },
@@ -855,7 +815,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 6.09,
+    "popularidad": 5.0193,
     "titulo": "Gungo y Los Juegos Cavernícolas",
     "tmdb_url": "https://www.themoviedb.org/movie/1548369"
   },
@@ -865,7 +825,7 @@
     "imdb_id": "tt38686316",
     "imdb_url": "https://www.imdb.com/title/tt38686316/",
     "num_votos": 0,
-    "popularidad": 10.3212,
+    "popularidad": 10.9395,
     "titulo": "Ghost Soldier",
     "tmdb_url": "https://www.themoviedb.org/movie/1562642"
   },
@@ -875,7 +835,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 8.0055,
+    "popularidad": 3.9941,
     "titulo": "La Tormenta",
     "tmdb_url": "https://www.themoviedb.org/movie/1590037"
   },
@@ -885,7 +845,7 @@
     "imdb_id": "tt39307326",
     "imdb_url": "https://www.imdb.com/title/tt39307326/",
     "num_votos": 0,
-    "popularidad": 3.3427,
+    "popularidad": 3.5274,
     "titulo": "Heritage",
     "tmdb_url": "https://www.themoviedb.org/movie/1610489"
   },
@@ -895,7 +855,7 @@
     "imdb_id": "tt39019415",
     "imdb_url": "https://www.imdb.com/title/tt39019415/",
     "num_votos": 0,
-    "popularidad": 1.4451,
+    "popularidad": 1.7085,
     "titulo": "Hombre al agua",
     "tmdb_url": "https://www.themoviedb.org/movie/1632166"
   },
@@ -905,7 +865,7 @@
     "imdb_id": "tt38118037",
     "imdb_url": "https://www.imdb.com/title/tt38118037/",
     "num_votos": 0,
-    "popularidad": 1.4009,
+    "popularidad": 1.3426,
     "titulo": "Julianne",
     "tmdb_url": "https://www.themoviedb.org/movie/1633618"
   },
@@ -915,9 +875,19 @@
     "imdb_id": "tt38785022",
     "imdb_url": "https://www.imdb.com/title/tt38785022/",
     "num_votos": 0,
-    "popularidad": 1.2679,
+    "popularidad": 1.0321,
     "titulo": "Al Día Siguiente",
     "tmdb_url": "https://www.themoviedb.org/movie/1634352"
+  },
+  "1645368": {
+    "calificacion": 7.6,
+    "fecha": "2026-09-10",
+    "imdb_id": "tt40435390",
+    "imdb_url": "https://www.imdb.com/title/tt40435390/",
+    "num_votos": 62,
+    "popularidad": 5.4018,
+    "titulo": "L'abandon",
+    "tmdb_url": "https://www.themoviedb.org/movie/1645368"
   },
   "1651828": {
     "calificacion": 0,
@@ -925,7 +895,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 0.8025,
+    "popularidad": 1.2696,
     "titulo": "Ya No Grabes",
     "tmdb_url": "https://www.themoviedb.org/movie/1651828"
   },
@@ -935,7 +905,7 @@
     "imdb_id": "tt39948335",
     "imdb_url": "https://www.imdb.com/title/tt39948335/",
     "num_votos": 0,
-    "popularidad": 0.4966,
+    "popularidad": 0.6418,
     "titulo": "Formas",
     "tmdb_url": "https://www.themoviedb.org/movie/1656936"
   },
@@ -945,7 +915,7 @@
     "imdb_id": "tt40630780",
     "imdb_url": "https://www.imdb.com/title/tt40630780/",
     "num_votos": 0,
-    "popularidad": 1.8682,
+    "popularidad": 2.1679,
     "titulo": "A Toda Madre",
     "tmdb_url": "https://www.themoviedb.org/movie/1661441"
   },
@@ -955,7 +925,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.5335,
+    "popularidad": 1.8229,
     "titulo": "Limbus",
     "tmdb_url": "https://www.themoviedb.org/movie/1674771"
   },
@@ -965,7 +935,7 @@
     "imdb_id": "tt38882652",
     "imdb_url": "https://www.imdb.com/title/tt38882652/",
     "num_votos": 0,
-    "popularidad": 1.6309,
+    "popularidad": 2.5185,
     "titulo": "Katy Perry: The Lifetimes Tour – Live from Paris",
     "tmdb_url": "https://www.themoviedb.org/movie/1684016"
   },
@@ -975,7 +945,7 @@
     "imdb_id": "tt43683692",
     "imdb_url": "https://www.imdb.com/title/tt43683692/",
     "num_votos": 4,
-    "popularidad": 2.7603,
+    "popularidad": 3.2389,
     "titulo": "2 Big to Rig",
     "tmdb_url": "https://www.themoviedb.org/movie/1693400"
   },
@@ -985,9 +955,19 @@
     "imdb_id": "tt43063916",
     "imdb_url": "https://www.imdb.com/title/tt43063916/",
     "num_votos": 3,
-    "popularidad": 1.6578,
+    "popularidad": 2.8984,
     "titulo": "Loco México Mágico",
     "tmdb_url": "https://www.themoviedb.org/movie/1700680"
+  },
+  "1712412": {
+    "calificacion": 0,
+    "fecha": "2026-09-12",
+    "imdb_id": "tt46082030",
+    "imdb_url": "https://www.imdb.com/title/tt46082030/",
+    "num_votos": 0,
+    "popularidad": 1.3009,
+    "titulo": "La Importancia de Llamarse Murcia",
+    "tmdb_url": "https://www.themoviedb.org/movie/1712412"
   },
   "1714722": {
     "calificacion": 0,
@@ -995,7 +975,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.2189,
+    "popularidad": 1.3847,
     "titulo": "Siempre en mi Mente",
     "tmdb_url": "https://www.themoviedb.org/movie/1714722"
   },
@@ -1005,19 +985,9 @@
     "imdb_id": "tt43596978",
     "imdb_url": "https://www.imdb.com/title/tt43596978/",
     "num_votos": 0,
-    "popularidad": 1.1866,
+    "popularidad": 1.9799,
     "titulo": "Pulp: What Do You Do for an Encore?",
     "tmdb_url": "https://www.themoviedb.org/movie/1715598"
-  },
-  "1719970": {
-    "calificacion": 0,
-    "fecha": "2026-09-14",
-    "imdb_id": null,
-    "imdb_url": null,
-    "num_votos": 0,
-    "popularidad": 0.7268,
-    "titulo": "Hadas pasan por mi casa",
-    "tmdb_url": "https://www.themoviedb.org/movie/1719970"
   },
   "1720045": {
     "calificacion": 0,
@@ -1025,7 +995,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 2.5508,
+    "popularidad": 2.8183,
     "titulo": "Malacopa",
     "tmdb_url": "https://www.themoviedb.org/movie/1720045"
   },
@@ -1035,7 +1005,7 @@
     "imdb_id": "tt43665280",
     "imdb_url": "https://www.imdb.com/title/tt43665280/",
     "num_votos": 0,
-    "popularidad": 1.7832,
+    "popularidad": 1.9552,
     "titulo": "Quédate",
     "tmdb_url": "https://www.themoviedb.org/movie/1729743"
   },
@@ -1045,7 +1015,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 0.4305,
+    "popularidad": 0.4596,
     "titulo": "L'operatrice e le forchette (forze dell’ordine)",
     "tmdb_url": "https://www.themoviedb.org/movie/1732709"
   },
@@ -1055,7 +1025,7 @@
     "imdb_id": "tt43687205",
     "imdb_url": "https://www.imdb.com/title/tt43687205/",
     "num_votos": 0,
-    "popularidad": 1.6873,
+    "popularidad": 2.2477,
     "titulo": "Juan Gabriel: Mi Primer Bellas Artes",
     "tmdb_url": "https://www.themoviedb.org/movie/1733257"
   },
@@ -1065,7 +1035,7 @@
     "imdb_id": "tt44568569",
     "imdb_url": "https://www.imdb.com/title/tt44568569/",
     "num_votos": 0,
-    "popularidad": 1.5087,
+    "popularidad": 1.9357,
     "titulo": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
     "tmdb_url": "https://www.themoviedb.org/movie/1740257"
   },
@@ -1075,7 +1045,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.0806,
+    "popularidad": 1.3774,
     "titulo": "Invader Grandma",
     "tmdb_url": "https://www.themoviedb.org/movie/1740656"
   },
@@ -1085,17 +1055,17 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 0.4685,
+    "popularidad": 0.8231,
     "titulo": "Mentirosa",
     "tmdb_url": "https://www.themoviedb.org/movie/1740703"
   },
   "1743695": {
-    "calificacion": 0,
+    "calificacion": 6.0,
     "fecha": "2026-09-10",
     "imdb_id": "tt40188247",
     "imdb_url": "https://www.imdb.com/title/tt40188247/",
-    "num_votos": 0,
-    "popularidad": 1.2684,
+    "num_votos": 1,
+    "popularidad": 1.8467,
     "titulo": "El Club del Pie Izquierdo",
     "tmdb_url": "https://www.themoviedb.org/movie/1743695"
   },
@@ -1105,9 +1075,19 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.5819,
+    "popularidad": 1.4864,
     "titulo": "Rosa",
     "tmdb_url": "https://www.themoviedb.org/movie/1747078"
+  },
+  "1747083": {
+    "calificacion": 0,
+    "fecha": "2026-09-01",
+    "imdb_id": null,
+    "imdb_url": null,
+    "num_votos": 0,
+    "popularidad": 1.689,
+    "titulo": "Burza",
+    "tmdb_url": "https://www.themoviedb.org/movie/1747083"
   },
   "1747292": {
     "calificacion": 0,
@@ -1115,19 +1095,9 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 2.6523,
+    "popularidad": 2.4926,
     "titulo": "GDL",
     "tmdb_url": "https://www.themoviedb.org/movie/1747292"
-  },
-  "1749344": {
-    "calificacion": 0,
-    "fecha": "2026-08-13",
-    "imdb_id": null,
-    "imdb_url": null,
-    "num_votos": 0,
-    "popularidad": 1.0212,
-    "titulo": "Te he Entregado el Fuego de mi Juventud",
-    "tmdb_url": "https://www.themoviedb.org/movie/1749344"
   },
   "1751598": {
     "calificacion": 0,
@@ -1135,7 +1105,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.1962,
+    "popularidad": 1.7697,
     "titulo": "Amarte",
     "tmdb_url": "https://www.themoviedb.org/movie/1751598"
   },
@@ -1145,7 +1115,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.841,
+    "popularidad": 1.719,
     "titulo": "Máscara contra Cabellera",
     "tmdb_url": "https://www.themoviedb.org/movie/1751967"
   },
@@ -1155,19 +1125,9 @@
     "imdb_id": "tt44925622",
     "imdb_url": "https://www.imdb.com/title/tt44925622/",
     "num_votos": 0,
-    "popularidad": 0.9174,
-    "titulo": "Hidden in Pieces",
+    "popularidad": 2.2303,
+    "titulo": "Yeah Yeah Yeahs: Hidden in Pieces",
     "tmdb_url": "https://www.themoviedb.org/movie/1752743"
-  },
-  "1753368": {
-    "calificacion": 0,
-    "fecha": "2026-09-01",
-    "imdb_id": null,
-    "imdb_url": null,
-    "num_votos": 0,
-    "popularidad": 1.2409,
-    "titulo": "Liena",
-    "tmdb_url": "https://www.themoviedb.org/movie/1753368"
   },
   "1754660": {
     "calificacion": 0,
@@ -1175,29 +1135,19 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 0.9853,
+    "popularidad": 1.0797,
     "titulo": "El Fin de la Escuela",
     "tmdb_url": "https://www.themoviedb.org/movie/1754660"
   },
-  "1754993": {
+  "1755023": {
     "calificacion": 0,
     "fecha": "2026-09-01",
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.0843,
-    "titulo": "El cortejo",
-    "tmdb_url": "https://www.themoviedb.org/movie/1754993"
-  },
-  "1757374": {
-    "calificacion": 0,
-    "fecha": "2026-09-01",
-    "imdb_id": null,
-    "imdb_url": null,
-    "num_votos": 0,
-    "popularidad": 0.9356,
-    "titulo": "Retrato de una adolescencia familiar",
-    "tmdb_url": "https://www.themoviedb.org/movie/1757374"
+    "popularidad": 1.479,
+    "titulo": "Puerta 36",
+    "tmdb_url": "https://www.themoviedb.org/movie/1755023"
   },
   "1757379": {
     "calificacion": 0,
@@ -1205,7 +1155,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 2.8436,
+    "popularidad": 3.0405,
     "titulo": "Ablution",
     "tmdb_url": "https://www.themoviedb.org/movie/1757379"
   },
@@ -1215,7 +1165,7 @@
     "imdb_id": "tt39247426",
     "imdb_url": "https://www.imdb.com/title/tt39247426/",
     "num_votos": 0,
-    "popularidad": 2.2119,
+    "popularidad": 2.2406,
     "titulo": "¿Dónde está la casa de mi padre?",
     "tmdb_url": "https://www.themoviedb.org/movie/1757467"
   },
@@ -1225,29 +1175,9 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 3.55,
+    "popularidad": 2.3753,
     "titulo": "Hongos Silvestres",
     "tmdb_url": "https://www.themoviedb.org/movie/1757692"
-  },
-  "1759663": {
-    "calificacion": 0,
-    "fecha": "2026-09-16",
-    "imdb_id": "tt44897705",
-    "imdb_url": "https://www.imdb.com/title/tt44897705/",
-    "num_votos": 0,
-    "popularidad": 0.5743,
-    "titulo": "Aún no lo sabemos",
-    "tmdb_url": "https://www.themoviedb.org/movie/1759663"
-  },
-  "1760379": {
-    "calificacion": 0,
-    "fecha": "2026-09-18",
-    "imdb_id": "tt39166655",
-    "imdb_url": "https://www.imdb.com/title/tt39166655/",
-    "num_votos": 0,
-    "popularidad": 0.6216,
-    "titulo": "¿Cómo es una estrella sin ti?",
-    "tmdb_url": "https://www.themoviedb.org/movie/1760379"
   },
   "1760440": {
     "calificacion": 0,
@@ -1255,7 +1185,7 @@
     "imdb_id": null,
     "imdb_url": null,
     "num_votos": 0,
-    "popularidad": 1.5347,
+    "popularidad": 1.6896,
     "titulo": "Bajo el ardiente sol",
     "tmdb_url": "https://www.themoviedb.org/movie/1760440"
   },
@@ -1265,17 +1195,37 @@
     "imdb_id": "tt40196240",
     "imdb_url": "https://www.imdb.com/title/tt40196240/",
     "num_votos": 0,
-    "popularidad": 2.529,
+    "popularidad": 2.2592,
     "titulo": "Oh, fortuna",
     "tmdb_url": "https://www.themoviedb.org/movie/1762928"
+  },
+  "1767402": {
+    "calificacion": 0,
+    "fecha": "2026-09-23",
+    "imdb_id": null,
+    "imdb_url": null,
+    "num_votos": 0,
+    "popularidad": 1.2688,
+    "titulo": "Road to Nowhere",
+    "tmdb_url": "https://www.themoviedb.org/movie/1767402"
+  },
+  "1767965": {
+    "calificacion": 0,
+    "fecha": "2026-09-11",
+    "imdb_id": null,
+    "imdb_url": null,
+    "num_votos": 0,
+    "popularidad": 2.9861,
+    "titulo": "LuKishi Fest",
+    "tmdb_url": "https://www.themoviedb.org/movie/1767965"
   },
   "280": {
     "calificacion": 8.2,
     "fecha": "1991-07-03",
     "imdb_id": "tt0103064",
     "imdb_url": "https://www.imdb.com/title/tt0103064/",
-    "num_votos": 14826,
-    "popularidad": 31.6289,
+    "num_votos": 14872,
+    "popularidad": 40.2365,
     "titulo": "Terminator 2: El juicio final",
     "tmdb_url": "https://www.themoviedb.org/movie/280"
   },
@@ -1284,18 +1234,18 @@
     "fecha": "2019-04-26",
     "imdb_id": "tt4154796",
     "imdb_url": "https://www.imdb.com/title/tt4154796/",
-    "num_votos": 28647,
-    "popularidad": 63.7377,
+    "num_votos": 28723,
+    "popularidad": 90.1636,
     "titulo": "Avengers: Endgame",
     "tmdb_url": "https://www.themoviedb.org/movie/299534"
   },
   "445466": {
-    "calificacion": 5.3,
+    "calificacion": 6.0,
     "fecha": "2026-09-03",
     "imdb_id": "tt6628920",
     "imdb_url": "https://www.imdb.com/title/tt6628920/",
-    "num_votos": 6,
-    "popularidad": 8.5398,
+    "num_votos": 7,
+    "popularidad": 8.3348,
     "titulo": "Idiotas",
     "tmdb_url": "https://www.themoviedb.org/movie/445466"
   },
@@ -1305,9 +1255,19 @@
     "imdb_id": "tt2467700",
     "imdb_url": "https://www.imdb.com/title/tt2467700/",
     "num_votos": 112,
-    "popularidad": 8.5109,
+    "popularidad": 9.3971,
     "titulo": "Rebelión en la granja",
     "tmdb_url": "https://www.themoviedb.org/movie/539745"
+  },
+  "671296": {
+    "calificacion": 0,
+    "fecha": "2026-09-16",
+    "imdb_id": "tt7246476",
+    "imdb_url": "https://www.imdb.com/title/tt7246476/",
+    "num_votos": 0,
+    "popularidad": 1.4871,
+    "titulo": "Jíkuri",
+    "tmdb_url": "https://www.themoviedb.org/movie/671296"
   },
   "791523": {
     "calificacion": 0,
@@ -1315,7 +1275,7 @@
     "imdb_id": "tt2056785",
     "imdb_url": "https://www.imdb.com/title/tt2056785/",
     "num_votos": 0,
-    "popularidad": 13.6111,
+    "popularidad": 12.7173,
     "titulo": "El Bosque Salvaje: Wildwood",
     "tmdb_url": "https://www.themoviedb.org/movie/791523"
   },
@@ -1325,17 +1285,27 @@
     "imdb_id": "tt38594810",
     "imdb_url": "https://www.imdb.com/title/tt38594810/",
     "num_votos": 0,
-    "popularidad": 1.5118,
+    "popularidad": 1.8026,
     "titulo": "Memorama",
     "tmdb_url": "https://www.themoviedb.org/movie/841309"
+  },
+  "848700": {
+    "calificacion": 0,
+    "fecha": "2026-11-19",
+    "imdb_id": "tt37118301",
+    "imdb_url": "https://www.imdb.com/title/tt37118301/",
+    "num_votos": 0,
+    "popularidad": 6.4913,
+    "titulo": "Minotaure",
+    "tmdb_url": "https://www.themoviedb.org/movie/848700"
   },
   "920": {
     "calificacion": 7.1,
     "fecha": "2006-06-30",
     "imdb_id": "tt0317219",
     "imdb_url": "https://www.imdb.com/title/tt0317219/",
-    "num_votos": 15498,
-    "popularidad": 29.5399,
+    "num_votos": 15531,
+    "popularidad": 38.0538,
     "titulo": "Cars",
     "tmdb_url": "https://www.themoviedb.org/movie/920"
   },
@@ -1345,7 +1315,7 @@
     "imdb_id": "tt31970593",
     "imdb_url": "https://www.imdb.com/title/tt31970593/",
     "num_votos": 0,
-    "popularidad": 2.3938,
+    "popularidad": 2.3406,
     "titulo": "魔法使いの夜",
     "tmdb_url": "https://www.themoviedb.org/movie/920167"
   },
@@ -1354,8 +1324,8 @@
     "fecha": "2001-09-07",
     "imdb_id": "tt0232500",
     "imdb_url": "https://www.imdb.com/title/tt0232500/",
-    "num_votos": 11116,
-    "popularidad": 1.6629,
+    "num_votos": 11141,
+    "popularidad": 2.4492,
     "titulo": "Rápido y furioso",
     "tmdb_url": "https://www.themoviedb.org/movie/9799"
   }
