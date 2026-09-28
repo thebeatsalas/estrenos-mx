@@ -3,42 +3,48 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (467 votos)\nIMDb: https://www.imdb.com/title/tt1756855/\nTMDB: https://www.themoviedb.org/movie/1204680
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (550 votos)\nIMDb: https://www.imdb.com/title/tt1756855/\nTMDB: https://www.themoviedb.org/movie/1204680
 SUMMARY:🎬 Coyote vs. Acme
 UID:tmdb-1204680@estrenos-mx
 URL:https://www.imdb.com/title/tt1756855/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.0/10 (7 votos)\nIMDb: https://www.imdb.com/title/tt6628920/\nTMDB: https://www.themoviedb.org/movie/445466
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (35 votos)\nIMDb: https://www.imdb.com/title/tt6628920/\nTMDB: https://www.themoviedb.org/movie/445466
 SUMMARY:🎬 Idiotas
 UID:tmdb-445466@estrenos-mx
 URL:https://www.imdb.com/title/tt6628920/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (48 votos)\nIMDb: https://www.imdb.com/title/tt22852560/\nTMDB: https://www.themoviedb.org/movie/1037264
-SUMMARY:🎬 La Disparition de Josef Mengele
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (49 votos)\nIMDb: https://www.imdb.com/title/tt22852560/\nTMDB: https://www.themoviedb.org/movie/1037264
+SUMMARY:🎬 Das Verschwinden des Josef Mengele
 UID:tmdb-1037264@estrenos-mx
 URL:https://www.imdb.com/title/tt22852560/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (62 votos)\nIMDb: https://www.imdb.com/title/tt40435390/\nTMDB: https://www.themoviedb.org/movie/1645368
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (66 votos)\nIMDb: https://www.imdb.com/title/tt40435390/\nTMDB: https://www.themoviedb.org/movie/1645368
 SUMMARY:🎬 L'abandon
 UID:tmdb-1645368@estrenos-mx
 URL:https://www.imdb.com/title/tt40435390/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1777819
+SUMMARY:🎬 La jangada
+UID:tmdb-1777819@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt31450459/\nTMDB: https://www.themoviedb.org/movie/1248832
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.1/10 (7 votos)\nIMDb: https://www.imdb.com/title/tt31450459/\nTMDB: https://www.themoviedb.org/movie/1248832
 SUMMARY:🎬 Digger
 UID:tmdb-1248832@estrenos-mx
 URL:https://www.imdb.com/title/tt31450459/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.8/10 (58 votos)\nIMDb: https://www.imdb.com/title/tt32499466/\nTMDB: https://www.themoviedb.org/movie/1339588
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.8/10 (65 votos)\nIMDb: https://www.imdb.com/title/tt32499466/\nTMDB: https://www.themoviedb.org/movie/1339588
 SUMMARY:🎬 Emily\, ¿dónde estás?
 UID:tmdb-1339588@estrenos-mx
 URL:https://www.imdb.com/title/tt32499466/
@@ -51,15 +57,15 @@ UID:tmdb-1373789@estrenos-mx
 URL:https://www.imdb.com/title/tt27838720/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt43665280/\nTMDB: https://www.themoviedb.org/movie/1729743
-SUMMARY:🎬 Quédate
-UID:tmdb-1729743@estrenos-mx
-URL:https://www.imdb.com/title/tt43665280/
+DTSTART;VALUE=DATE:20260916
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.1/10 (409 votos)\nIMDb: https://www.imdb.com/title/tt0814243/\nTMDB: https://www.themoviedb.org/movie/19576
+SUMMARY:🎬 ONE PIECE LA PELÍCULA
+UID:tmdb-19576@estrenos-mx
+URL:https://www.imdb.com/title/tt0814243/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.4/10 (112 votos)\nIMDb: https://www.imdb.com/title/tt2467700/\nTMDB: https://www.themoviedb.org/movie/539745
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.4/10 (115 votos)\nIMDb: https://www.imdb.com/title/tt2467700/\nTMDB: https://www.themoviedb.org/movie/539745
 SUMMARY:🎬 Rebelión en la granja
 UID:tmdb-539745@estrenos-mx
 URL:https://www.imdb.com/title/tt2467700/
@@ -70,12 +76,6 @@ DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.c
 SUMMARY:🎬 Oh\, fortuna
 UID:tmdb-1762928@estrenos-mx
 URL:https://www.imdb.com/title/tt40196240/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1747078
-SUMMARY:🎬 Rosa
-UID:tmdb-1747078@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270121
@@ -99,7 +99,7 @@ URL:https://www.imdb.com/title/tt32243339/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.4/10 (425 votos)\nIMDb: https://www.imdb.com/title/tt32338669/\nTMDB: https://www.themoviedb.org/movie/1288445
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.3/10 (680 votos)\nIMDb: https://www.imdb.com/title/tt32338669/\nTMDB: https://www.themoviedb.org/movie/1288445
 SUMMARY:🎬 Código: Venganza
 UID:tmdb-1288445@estrenos-mx
 URL:https://www.imdb.com/title/tt32338669/
@@ -111,31 +111,17 @@ SUMMARY:🎬 Invader Grandma
 UID:tmdb-1740656@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1714722
-SUMMARY:🎬 Siempre en mi Mente
-UID:tmdb-1714722@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.2/10 (24 votos)\nIMDb: https://www.imdb.com/title/tt37304295/\nTMDB: https://www.themoviedb.org/movie/1437696
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.3/10 (29 votos)\nIMDb: https://www.imdb.com/title/tt37304295/\nTMDB: https://www.themoviedb.org/movie/1437696
 SUMMARY:🎬 Tierra de Mi Padre
 UID:tmdb-1437696@estrenos-mx
 URL:https://www.imdb.com/title/tt37304295/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.0/10 (3 votos)\nIMDb: https://www.imdb.com/title/tt43063916/\nTMDB: https://www.themoviedb.org/movie/1700680
-SUMMARY:🎬 Loco México Mágico
-UID:tmdb-1700680@estrenos-mx
-URL:https://www.imdb.com/title/tt43063916/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.9/10 (5002 votos)\nIMDb: https://www.imdb.com/title/tt0094625/\nTMDB: https://www.themoviedb.org/movie/149
-SUMMARY:🎬 Akira
-UID:tmdb-149@estrenos-mx
-URL:https://www.imdb.com/title/tt0094625/
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1747081
+SUMMARY:🎬 Blu
+UID:tmdb-1747081@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
@@ -172,7 +158,7 @@ UID:tmdb-1490354@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 4.5/10 (60 votos)\nIMDb: https://www.imdb.com/title/tt36893729/\nTMDB: https://www.themoviedb.org/movie/1477712
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 4.8/10 (91 votos)\nIMDb: https://www.imdb.com/title/tt36893729/\nTMDB: https://www.themoviedb.org/movie/1477712
 SUMMARY:🎬 El Heladero: Dulce sabor a muerte
 UID:tmdb-1477712@estrenos-mx
 URL:https://www.imdb.com/title/tt36893729/
@@ -186,7 +172,7 @@ URL:https://www.imdb.com/title/tt28287155/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260916
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.8/10 (21 votos)\nIMDb: https://www.imdb.com/title/tt34379051/\nTMDB: https://www.themoviedb.org/movie/1380417
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (23 votos)\nIMDb: https://www.imdb.com/title/tt34379051/\nTMDB: https://www.themoviedb.org/movie/1380417
 SUMMARY:🎬 A cualquier precio
 UID:tmdb-1380417@estrenos-mx
 URL:https://www.imdb.com/title/tt34379051/
@@ -199,7 +185,7 @@ UID:tmdb-1757692@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.4/10 (43 votos)\nIMDb: https://www.imdb.com/title/tt35519455/\nTMDB: https://www.themoviedb.org/movie/1422011
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.4/10 (53 votos)\nIMDb: https://www.imdb.com/title/tt35519455/\nTMDB: https://www.themoviedb.org/movie/1422011
 SUMMARY:🎬 El final
 UID:tmdb-1422011@estrenos-mx
 URL:https://www.imdb.com/title/tt35519455/
@@ -213,7 +199,7 @@ URL:https://www.imdb.com/title/tt34512981/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (145 votos)\nIMDb: https://www.imdb.com/title/tt37853455/\nTMDB: https://www.themoviedb.org/movie/1433367
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (160 votos)\nIMDb: https://www.imdb.com/title/tt37853455/\nTMDB: https://www.themoviedb.org/movie/1433367
 SUMMARY:🎬 Solo por una noche
 UID:tmdb-1433367@estrenos-mx
 URL:https://www.imdb.com/title/tt37853455/
@@ -227,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270121
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt34718200/\nTMDB: https://www.themoviedb.org/movie/1391239
-SUMMARY:🎬 El Debut
+SUMMARY:🎬 El Gran Debut
 UID:tmdb-1391239@estrenos-mx
 URL:https://www.imdb.com/title/tt34718200/
 END:VEVENT
@@ -238,13 +224,6 @@ SUMMARY:🎬 LuKishi Fest
 UID:tmdb-1767965@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260916
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt7246476/\nTMDB: https://www.themoviedb.org/movie/671296
-SUMMARY:🎬 Jíkuri
-UID:tmdb-671296@estrenos-mx
-URL:https://www.imdb.com/title/tt7246476/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt11995650/\nTMDB: https://www.themoviedb.org/movie/1286656
 SUMMARY:🎬 Yo Soy Rocky
@@ -253,7 +232,7 @@ URL:https://www.imdb.com/title/tt11995650/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.1/10 (79 votos)\nIMDb: https://www.imdb.com/title/tt32332915/\nTMDB: https://www.themoviedb.org/movie/1288059
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.1/10 (89 votos)\nIMDb: https://www.imdb.com/title/tt32332915/\nTMDB: https://www.themoviedb.org/movie/1288059
 SUMMARY:🎬 Quiero Tu Sexo
 UID:tmdb-1288059@estrenos-mx
 URL:https://www.imdb.com/title/tt32332915/
@@ -279,7 +258,7 @@ URL:https://www.imdb.com/title/tt37510326/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.5/10 (18 votos)\nIMDb: https://www.imdb.com/title/tt32268992/\nTMDB: https://www.themoviedb.org/movie/1284186
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.4/10 (23 votos)\nIMDb: https://www.imdb.com/title/tt32268992/\nTMDB: https://www.themoviedb.org/movie/1284186
 SUMMARY:🎬 Sacrificio: Los elegidos
 UID:tmdb-1284186@estrenos-mx
 URL:https://www.imdb.com/title/tt32268992/
@@ -290,12 +269,6 @@ DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.c
 SUMMARY:🎬 ¿Dónde está la casa de mi padre?
 UID:tmdb-1757467@estrenos-mx
 URL:https://www.imdb.com/title/tt39247426/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1767402
-SUMMARY:🎬 Road to Nowhere
-UID:tmdb-1767402@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
@@ -319,10 +292,11 @@ UID:tmdb-841309@estrenos-mx
 URL:https://www.imdb.com/title/tt38594810/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270108
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1732709
-SUMMARY:🎬 L'operatrice e le forchette (forze dell’ordine)
-UID:tmdb-1732709@estrenos-mx
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.2/10 (51 votos)\nIMDb: https://www.imdb.com/title/tt31192372/\nTMDB: https://www.themoviedb.org/movie/1101412
+SUMMARY:🎬 Vértigo 2: Punto muerto
+UID:tmdb-1101412@estrenos-mx
+URL:https://www.imdb.com/title/tt31192372/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
@@ -339,16 +313,28 @@ UID:tmdb-1260649@estrenos-mx
 URL:https://www.imdb.com/title/tt26735127/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.9/10 (128 votos)\nIMDb: https://www.imdb.com/title/tt29356163/\nTMDB: https://www.themoviedb.org/movie/1185806
-SUMMARY:🎬 Paw Patrol: La dino película
-UID:tmdb-1185806@estrenos-mx
-URL:https://www.imdb.com/title/tt29356163/
+DTSTART;VALUE=DATE:20270108
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1732709
+SUMMARY:🎬 L'operatrice e le forchette (forze dell’ordine)
+UID:tmdb-1732709@estrenos-mx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.9/10 (122 votos)\nIMDb: https://www.imdb.com/title/tt32398150/\nTMDB: https://www.themoviedb.org/movie/1290424
+SUMMARY:🎬 El Arquitecto
+UID:tmdb-1290424@estrenos-mx
+URL:https://www.imdb.com/title/tt32398150/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1753366
+SUMMARY:🎬 FLESH AND SKIN
+UID:tmdb-1753366@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt43596978/\nTMDB: https://www.themoviedb.org/movie/1715598
-SUMMARY:🎬 Pulp: What Do You Do for an Encore?
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.0/10 (1 votos)\nIMDb: https://www.imdb.com/title/tt43596978/\nTMDB: https://www.themoviedb.org/movie/1715598
+SUMMARY:🎬 Pulp - What Do You Do for an Encore?
 UID:tmdb-1715598@estrenos-mx
 URL:https://www.imdb.com/title/tt43596978/
 END:VEVENT
@@ -361,7 +347,7 @@ URL:https://www.imdb.com/title/tt36415529/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.4/10 (87 votos)\nIMDb: https://www.imdb.com/title/tt33319706/\nTMDB: https://www.themoviedb.org/movie/1356236
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.3/10 (88 votos)\nIMDb: https://www.imdb.com/title/tt33319706/\nTMDB: https://www.themoviedb.org/movie/1356236
 SUMMARY:🎬 Saint Catherine
 UID:tmdb-1356236@estrenos-mx
 URL:https://www.imdb.com/title/tt33319706/
@@ -375,7 +361,7 @@ URL:https://www.imdb.com/title/tt31970593/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270128
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (36 votos)\nIMDb: https://www.imdb.com/title/tt25399154/\nTMDB: https://www.themoviedb.org/movie/1176962
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.7/10 (40 votos)\nIMDb: https://www.imdb.com/title/tt25399154/\nTMDB: https://www.themoviedb.org/movie/1176962
 SUMMARY:🎬 Rose
 UID:tmdb-1176962@estrenos-mx
 URL:https://www.imdb.com/title/tt25399154/
@@ -386,6 +372,13 @@ DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.c
 SUMMARY:🎬 El Bosque Salvaje: Wildwood
 UID:tmdb-791523@estrenos-mx
 URL:https://www.imdb.com/title/tt2056785/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261203
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt18270542/\nTMDB: https://www.themoviedb.org/movie/940009
+SUMMARY:🎬 Ray Gunn
+UID:tmdb-940009@estrenos-mx
+URL:https://www.imdb.com/title/tt18270542/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261203
@@ -410,14 +403,14 @@ URL:https://www.imdb.com/title/tt27419420/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (281 votos)\nIMDb: https://www.imdb.com/title/tt21285562/\nTMDB: https://www.themoviedb.org/movie/1384216
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (294 votos)\nIMDb: https://www.imdb.com/title/tt21285562/\nTMDB: https://www.themoviedb.org/movie/1384216
 SUMMARY:🎬 La guerra de los últimos
 UID:tmdb-1384216@estrenos-mx
 URL:https://www.imdb.com/title/tt21285562/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260826
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.0/10 (74 votos)\nIMDb: https://www.imdb.com/title/tt27530512/\nTMDB: https://www.themoviedb.org/movie/1213243
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.0/10 (76 votos)\nIMDb: https://www.imdb.com/title/tt27530512/\nTMDB: https://www.themoviedb.org/movie/1213243
 SUMMARY:🎬 Tóxico
 UID:tmdb-1213243@estrenos-mx
 URL:https://www.imdb.com/title/tt27530512/
@@ -431,41 +424,49 @@ URL:https://www.imdb.com/title/tt38551604/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.1/10 (63 votos)\nIMDb: https://www.imdb.com/title/tt36629665/\nTMDB: https://www.themoviedb.org/movie/1469342
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.2/10 (68 votos)\nIMDb: https://www.imdb.com/title/tt36629665/\nTMDB: https://www.themoviedb.org/movie/1469342
 SUMMARY:🎬 Su propio infierno
 UID:tmdb-1469342@estrenos-mx
 URL:https://www.imdb.com/title/tt36629665/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19910703
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.2/10 (14872 votos)\nIMDb: https://www.imdb.com/title/tt0103064/\nTMDB: https://www.themoviedb.org/movie/280
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.2/10 (14917 votos)\nIMDb: https://www.imdb.com/title/tt0103064/\nTMDB: https://www.themoviedb.org/movie/280
 SUMMARY:🎬 Terminator 2: El juicio final
 UID:tmdb-280@estrenos-mx
 URL:https://www.imdb.com/title/tt0103064/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt35826854/\nTMDB: https://www.themoviedb.org/movie/1487046
+SUMMARY:🎬 Ciudad de muertos
+UID:tmdb-1487046@estrenos-mx
+URL:https://www.imdb.com/title/tt35826854/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt22393352/\nTMDB: https://www.themoviedb.org/movie/1414544
+SUMMARY:🎬 Mi amigo el sol
+UID:tmdb-1414544@estrenos-mx
+URL:https://www.imdb.com/title/tt22393352/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (105 votos)\nIMDb: https://www.imdb.com/title/tt30887701/\nTMDB: https://www.themoviedb.org/movie/1232569
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (115 votos)\nIMDb: https://www.imdb.com/title/tt30887701/\nTMDB: https://www.themoviedb.org/movie/1232569
 SUMMARY:🎬 Pinocho: Sin cuerdas
 UID:tmdb-1232569@estrenos-mx
 URL:https://www.imdb.com/title/tt30887701/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1755023
-SUMMARY:🎬 Puerta 36
-UID:tmdb-1755023@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20060630
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.1/10 (15531 votos)\nIMDb: https://www.imdb.com/title/tt0317219/\nTMDB: https://www.themoviedb.org/movie/920
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.1/10 (15571 votos)\nIMDb: https://www.imdb.com/title/tt0317219/\nTMDB: https://www.themoviedb.org/movie/920
 SUMMARY:🎬 Cars
 UID:tmdb-920@estrenos-mx
 URL:https://www.imdb.com/title/tt0317219/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.2/10 (78 votos)\nIMDb: https://www.imdb.com/title/tt32588798/\nTMDB: https://www.themoviedb.org/movie/1302904
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.2/10 (93 votos)\nIMDb: https://www.imdb.com/title/tt32588798/\nTMDB: https://www.themoviedb.org/movie/1302904
 SUMMARY:🎬 Hechizo de amor: La magia continúa
 UID:tmdb-1302904@estrenos-mx
 URL:https://www.imdb.com/title/tt32588798/
@@ -479,7 +480,7 @@ URL:https://www.imdb.com/title/tt32558705/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.2/10 (47 votos)\nIMDb: https://www.imdb.com/title/tt38607784/\nTMDB: https://www.themoviedb.org/movie/1516724
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.2/10 (53 votos)\nIMDb: https://www.imdb.com/title/tt38607784/\nTMDB: https://www.themoviedb.org/movie/1516724
 SUMMARY:🎬 Pour le plaisir
 UID:tmdb-1516724@estrenos-mx
 URL:https://www.imdb.com/title/tt38607784/
@@ -490,13 +491,6 @@ DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.c
 SUMMARY:🎬 Maestros Del Crimen
 UID:tmdb-1084409@estrenos-mx
 URL:https://www.imdb.com/title/tt14129116/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt39307326/\nTMDB: https://www.themoviedb.org/movie/1610489
-SUMMARY:🎬 Heritage
-UID:tmdb-1610489@estrenos-mx
-URL:https://www.imdb.com/title/tt39307326/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
@@ -510,13 +504,6 @@ DTSTART;VALUE=DATE:20261007
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1740703
 SUMMARY:🎬 Mentirosa
 UID:tmdb-1740703@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt38118037/\nTMDB: https://www.themoviedb.org/movie/1633618
-SUMMARY:🎬 Julianne
-UID:tmdb-1633618@estrenos-mx
-URL:https://www.imdb.com/title/tt38118037/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
@@ -534,7 +521,7 @@ URL:https://www.imdb.com/title/tt34384661/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.1/10 (840 votos)\nIMDb: https://www.imdb.com/title/tt34385135/\nTMDB: https://www.themoviedb.org/movie/1375646
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.1/10 (912 votos)\nIMDb: https://www.imdb.com/title/tt34385135/\nTMDB: https://www.themoviedb.org/movie/1375646
 SUMMARY:🎬 Zona Cero
 UID:tmdb-1375646@estrenos-mx
 URL:https://www.imdb.com/title/tt34385135/
@@ -555,14 +542,14 @@ URL:https://www.imdb.com/title/tt43442522/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.7/10 (12 votos)\nIMDb: https://www.imdb.com/title/tt7526136/\nTMDB: https://www.themoviedb.org/movie/1263337
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.7/10 (112 votos)\nIMDb: https://www.imdb.com/title/tt7526136/\nTMDB: https://www.themoviedb.org/movie/1263337
 SUMMARY:🎬 El corazón de la bestia
 UID:tmdb-1263337@estrenos-mx
 URL:https://www.imdb.com/title/tt7526136/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (33 votos)\nIMDb: https://www.imdb.com/title/tt33305867/\nTMDB: https://www.themoviedb.org/movie/1341138
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (52 votos)\nIMDb: https://www.imdb.com/title/tt33305867/\nTMDB: https://www.themoviedb.org/movie/1341138
 SUMMARY:🎬 Relajadas y muy peligrosas
 UID:tmdb-1341138@estrenos-mx
 URL:https://www.imdb.com/title/tt33305867/
@@ -580,14 +567,8 @@ SUMMARY:🎬 Amarte
 UID:tmdb-1751598@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260826
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1751967
-SUMMARY:🎬 Máscara contra Cabellera
-UID:tmdb-1751967@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (254 votos)\nIMDb: https://www.imdb.com/title/tt27811248/\nTMDB: https://www.themoviedb.org/movie/1291712
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.6/10 (258 votos)\nIMDb: https://www.imdb.com/title/tt27811248/\nTMDB: https://www.themoviedb.org/movie/1291712
 SUMMARY:🎬 Las Catadoras De Hitler
 UID:tmdb-1291712@estrenos-mx
 URL:https://www.imdb.com/title/tt27811248/
@@ -607,19 +588,6 @@ UID:tmdb-1562642@estrenos-mx
 URL:https://www.imdb.com/title/tt38686316/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1757379
-SUMMARY:🎬 Ablution
-UID:tmdb-1757379@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt46082030/\nTMDB: https://www.themoviedb.org/movie/1712412
-SUMMARY:🎬 La Importancia de Llamarse Murcia
-UID:tmdb-1712412@estrenos-mx
-URL:https://www.imdb.com/title/tt46082030/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt31546369/\nTMDB: https://www.themoviedb.org/movie/1474678
 SUMMARY:🎬 Anxious People
@@ -629,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270211
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt9077514/\nTMDB: https://www.themoviedb.org/movie/1147572
-SUMMARY:🎬 Narnia: The Magician's Nephew
+SUMMARY:🎬 Narnia: El sobrino del mago
 UID:tmdb-1147572@estrenos-mx
 URL:https://www.imdb.com/title/tt9077514/
 END:VEVENT
@@ -640,42 +608,29 @@ SUMMARY:🎬 Malacopa
 UID:tmdb-1720045@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (149 votos)\nIMDb: https://www.imdb.com/title/tt35298123/\nTMDB: https://www.themoviedb.org/movie/1240889
-SUMMARY:🎬 Adolescencia\, Sexo y Muerte en Campamento Miasma
-UID:tmdb-1240889@estrenos-mx
-URL:https://www.imdb.com/title/tt35298123/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.4/10 (82 votos)\nIMDb: https://www.imdb.com/title/tt27369017/\nTMDB: https://www.themoviedb.org/movie/1058424
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.3/10 (94 votos)\nIMDb: https://www.imdb.com/title/tt27369017/\nTMDB: https://www.themoviedb.org/movie/1058424
 SUMMARY:🎬 Hope: El primer impacto
 UID:tmdb-1058424@estrenos-mx
 URL:https://www.imdb.com/title/tt27369017/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1754660
-SUMMARY:🎬 El Fin de la Escuela
-UID:tmdb-1754660@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261126
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt36408401/\nTMDB: https://www.themoviedb.org/movie/1457866
-SUMMARY:🎬 The Further Mis-Adventures of Cliff Booth
+SUMMARY:🎬 THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH
 UID:tmdb-1457866@estrenos-mx
 URL:https://www.imdb.com/title/tt36408401/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260916
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.5/10 (8 votos)\nIMDb: https://www.imdb.com/title/tt36583977/\nTMDB: https://www.themoviedb.org/movie/1465063
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.1/10 (29 votos)\nIMDb: https://www.imdb.com/title/tt36583977/\nTMDB: https://www.themoviedb.org/movie/1465063
 SUMMARY:🎬 La isla olvidada
 UID:tmdb-1465063@estrenos-mx
 URL:https://www.imdb.com/title/tt36583977/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.1/10 (85 votos)\nIMDb: https://www.imdb.com/title/tt32321803/\nTMDB: https://www.themoviedb.org/movie/1279493
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.0/10 (99 votos)\nIMDb: https://www.imdb.com/title/tt32321803/\nTMDB: https://www.themoviedb.org/movie/1279493
 SUMMARY:🎬 El último gran golpe
 UID:tmdb-1279493@estrenos-mx
 URL:https://www.imdb.com/title/tt32321803/
@@ -703,27 +658,21 @@ URL:https://www.imdb.com/title/tt44568569/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.3/10 (70 votos)\nIMDb: https://www.imdb.com/title/tt7734244/\nTMDB: https://www.themoviedb.org/movie/1140521
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (81 votos)\nIMDb: https://www.imdb.com/title/tt7734244/\nTMDB: https://www.themoviedb.org/movie/1140521
 SUMMARY:🎬 El Árbol Mágico
 UID:tmdb-1140521@estrenos-mx
 URL:https://www.imdb.com/title/tt7734244/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1747083
-SUMMARY:🎬 Burza
-UID:tmdb-1747083@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.9/10 (31 votos)\nIMDb: https://www.imdb.com/title/tt31349844/\nTMDB: https://www.themoviedb.org/movie/1377237
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.6/10 (60 votos)\nIMDb: https://www.imdb.com/title/tt31349844/\nTMDB: https://www.themoviedb.org/movie/1377237
 SUMMARY:🎬 Entrega al límite
 UID:tmdb-1377237@estrenos-mx
 URL:https://www.imdb.com/title/tt31349844/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.0/10 (25 votos)\nIMDb: https://www.imdb.com/title/tt32268691/\nTMDB: https://www.themoviedb.org/movie/1284046
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 5.8/10 (28 votos)\nIMDb: https://www.imdb.com/title/tt32268691/\nTMDB: https://www.themoviedb.org/movie/1284046
 SUMMARY:🎬 Aniquilación
 UID:tmdb-1284046@estrenos-mx
 URL:https://www.imdb.com/title/tt32268691/
@@ -737,7 +686,7 @@ URL:https://www.imdb.com/title/tt36586020/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260916
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.4/10 (245 votos)\nIMDb: https://www.imdb.com/title/tt35538033/\nTMDB: https://www.themoviedb.org/movie/1423191
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.3/10 (567 votos)\nIMDb: https://www.imdb.com/title/tt35538033/\nTMDB: https://www.themoviedb.org/movie/1423191
 SUMMARY:🎬 Resident Evil: Noche cero
 UID:tmdb-1423191@estrenos-mx
 URL:https://www.imdb.com/title/tt35538033/
@@ -751,14 +700,14 @@ URL:https://www.imdb.com/title/tt39948335/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt13609648/\nTMDB: https://www.themoviedb.org/movie/1503762
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (4 votos)\nIMDb: https://www.imdb.com/title/tt13609648/\nTMDB: https://www.themoviedb.org/movie/1503762
 SUMMARY:🎬 Sensatez y sentimiento
 UID:tmdb-1503762@estrenos-mx
 URL:https://www.imdb.com/title/tt13609648/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (157 votos)\nIMDb: https://www.imdb.com/title/tt32393988/\nTMDB: https://www.themoviedb.org/movie/1291595
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 6.5/10 (167 votos)\nIMDb: https://www.imdb.com/title/tt32393988/\nTMDB: https://www.themoviedb.org/movie/1291595
 SUMMARY:🎬 La noche del demonio: Están entre nosotros
 UID:tmdb-1291595@estrenos-mx
 URL:https://www.imdb.com/title/tt32393988/
@@ -769,6 +718,13 @@ DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.c
 SUMMARY:🎬 Diez de Mayo
 UID:tmdb-1398298@estrenos-mx
 URL:https://www.imdb.com/title/tt34904883/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.9/10 (2338 votos)\nIMDb: https://www.imdb.com/title/tt0978762/\nTMDB: https://www.themoviedb.org/movie/24238
+SUMMARY:🎬 Mary y Max
+UID:tmdb-24238@estrenos-mx
+URL:https://www.imdb.com/title/tt0978762/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261217
@@ -818,13 +774,6 @@ UID:tmdb-1421903@estrenos-mx
 URL:https://www.imdb.com/title/tt35514120/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt21413704/\nTMDB: https://www.themoviedb.org/movie/1199946
-SUMMARY:🎬 Cocodrilos
-UID:tmdb-1199946@estrenos-mx
-URL:https://www.imdb.com/title/tt21413704/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nIMDb: https://www.imdb.com/title/tt38882652/\nTMDB: https://www.themoviedb.org/movie/1684016
 SUMMARY:🎬 Katy Perry: The Lifetimes Tour – Live from Paris
@@ -847,7 +796,7 @@ URL:https://www.imdb.com/title/tt30224625/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20010907
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.0/10 (11141 votos)\nIMDb: https://www.imdb.com/title/tt0232500/\nTMDB: https://www.themoviedb.org/movie/9799
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.0/10 (11177 votos)\nIMDb: https://www.imdb.com/title/tt0232500/\nTMDB: https://www.themoviedb.org/movie/9799
 SUMMARY:🎬 Rápido y furioso
 UID:tmdb-9799@estrenos-mx
 URL:https://www.imdb.com/title/tt0232500/
@@ -874,35 +823,16 @@ UID:tmdb-1447853@estrenos-mx
 URL:https://www.imdb.com/title/tt36152310/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1651828
-SUMMARY:🎬 Ya No Grabes
-UID:tmdb-1651828@estrenos-mx
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 7.0/10 (1341 votos)\nIMDb: https://www.imdb.com/title/tt27165187/\nTMDB: https://www.themoviedb.org/movie/1101383
-SUMMARY:🎬 El final de la Calle Oak
-UID:tmdb-1101383@estrenos-mx
-URL:https://www.imdb.com/title/tt27165187/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
+DTSTART;VALUE=DATE:20261022
 DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1406492
 SUMMARY:🎬 La Venganza del Charro Negro
 UID:tmdb-1406492@estrenos-mx
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190426
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.2/10 (28723 votos)\nIMDb: https://www.imdb.com/title/tt4154796/\nTMDB: https://www.themoviedb.org/movie/299534
+DESCRIPTION:Estreno en cines de México (fuente: TMDB)\n⭐ Calificación TMDB: 8.2/10 (28830 votos)\nIMDb: https://www.imdb.com/title/tt4154796/\nTMDB: https://www.themoviedb.org/movie/299534
 SUMMARY:🎬 Avengers: Endgame
 UID:tmdb-299534@estrenos-mx
 URL:https://www.imdb.com/title/tt4154796/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DESCRIPTION:Estreno en cines de México (fuente: TMDB)\nTMDB: https://www.themoviedb.org/movie/1484043
-SUMMARY:🎬 Brote en el concreto
-UID:tmdb-1484043@estrenos-mx
 END:VEVENT
 END:VCALENDAR
